@@ -1,6 +1,6 @@
 # Fashion_search_engine
 
-This project implements a **Fashion Search** recommendation system that allows users to search for clothing items using either **image-based queries** or **text-based queries**. The system recommends the most similar items based on a set of embeddings generated from both the images and descriptions of clothing items.
+This project implements a **Fashion Search** system that allows users to search for clothing items using either **image-based queries** or **text-based queries**. The system recommends the most similar items based on a set of embeddings generated from both the images and descriptions of clothing items.
 
 ## Project Overview
 The system consists of two components:
